@@ -1,0 +1,11 @@
+Core Commands:
+git init: Initializes a new Git repository in an existing directory or creates a new one.
+git clone <repository_url>: Creates a local copy of a remote repository.
+git status: Shows the current status of the working directory, including modified, staged, and untracked files.
+git add <file_or_directory: Stages changes to be included in the next commit.
+git commit -m "<message>": Saves staged changes as a new commit with a descriptive message.
+git push: Uploads local commits to a remote repository.
+git pull: Downloads changes from a remote repository and merges them into the local branch.
+git log: Displays the commit history of the current branch.
+git remote add <name> <url>: Adds a remote repository.
+git remote -v: Lists the configured remote repositories. 
